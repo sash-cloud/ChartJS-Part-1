@@ -42,7 +42,13 @@ let woodData = {
 
 // Step 04 - Instantiate our Chart!
 let myChart = new Chart(woodyChart, {
-    type: "line",   // The type of chart we want to create "line", "bar"
-    data: woodData, // The data for our dataset
-    options: {}     // Configuration options go here
+    type: "line",
+    data: woodData,
+    options: {  // locally defining options 
+        responsive: true, 
+        maintainAspectRatio: false,
+        animation: {  
+            duration: 2000 // overriding global default
+        },
+    }
 });
