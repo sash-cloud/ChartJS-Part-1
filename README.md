@@ -8,11 +8,11 @@ Your chart should look like this:
 
 This repo contains an index.html and woody.js file. 
 
-Step 01 - Setting up your workspace
-Step 02 - Creating a hook
-Step 03 - Setting the data object
-Step 04 - Instantiate our Chart!
-Step 05 - Global and Local Configuration Options
-Challenge
+Step 01 - Setting up your workspace<br/>
+Step 02 - Creating a hook<br/>
+Step 03 - Setting the data object<br/>
+Step 04 - Instantiate our Chart!<br/>
+Step 05 - Global and Local Configuration Options<br/>
+Challenge<br/>
 
 
