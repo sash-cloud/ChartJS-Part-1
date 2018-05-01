@@ -46,7 +46,7 @@ let myChart = new Chart(woodyChart, {
     data: woodData,
     options: {  // locally defining options 
         responsive: true, 
-        maintainAspectRatio: false,
+        maintainAspectRatio: true,
         animation: {  
             duration: 2000 // overriding global default
         },
